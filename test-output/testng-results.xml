@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[----LOGIN SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----MENU HAMBURGER ICON CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----INCENTIVE ADMIN HOME PAGE CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----USER ADMINISTRATION CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----PUBLIC USER CLICK OPTION CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----ADD PUBLIC USER----]]>
+    </line>
+    <line>
+      <![CDATA[----PUBLIC USER ADDED SUCCESSFULLY----]]>
+    </line>
+    <line>
+      <![CDATA[----LMS ADMIN PANEL MENU CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[---- CURRICULUM MANAGER LINK CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[---- CURRICULUM MANAGER ADD CLICK SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[---- CURRICULUM NAME AND DESCRIPTION SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[---- EXIT FROM CURRICULUM PAGE SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO TRAINING PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----TRAINING PAGE DATA ADDED SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----SEARCH DATA IN TRAINING COURSE PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----SEARCH DATA IN TRAINING COURSE PAGE SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO TITLE QUIZ PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----QUIZ ADDED SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO PUBLIC USER PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO PUBLIC USER PAGE SEARCH----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO IMPERSONATE USER----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO NEW WINDOW----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO ACADEMY PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO CURRICULUM PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----NAVIGATE TO TEST PAGE----]]>
+    </line>
+    <line>
+      <![CDATA[----TEST SUCCESSFULL----]]>
+    </line>
+    <line>
+      <![CDATA[----TEST SUCCESSFULL MESSAGE----Your Score : 100%]]>
+    </line>
+    <line>
+      <![CDATA[10 points  : POINTS ON HOLD]]>
+    </line>
+    <line>
+      <![CDATA[----TEST COMPLETED----]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2024-11-07T13:02:41 IST" name="Default suite" finished-at="2024-11-07T13:04:31 IST" duration-ms="110122">
+    <groups>
+    </groups>
+    <test started-at="2024-11-07T13:02:41 IST" name="Default test" finished-at="2024-11-07T13:04:31 IST" duration-ms="110122">
+      <class name="org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest">
+        <test-method is-config="true" signature="configBeforeMethod(org.testng.ITestResult)[pri:0, instance:org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest@6f01b95f]" started-at="2024-11-07T13:02:41 IST" name="configBeforeMethod" finished-at="2024-11-07T13:03:04 IST" duration-ms="23180" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name={null} status=CREATED method=TC_01_CompleteCourseAndVerifyPointsAreCreditedTest.completeCourseAndVerifyPointsAreCredited1()[pri:0, instance:org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest@6f01b95f] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBeforeMethod -->
+        <test-method signature="completeCourseAndVerifyPointsAreCredited1()[pri:0, instance:org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest@6f01b95f]" started-at="2024-11-07T13:03:04 IST" name="completeCourseAndVerifyPointsAreCredited1" finished-at="2024-11-07T13:04:29 IST" duration-ms="84684" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[----LOGIN SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----MENU HAMBURGER ICON CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----INCENTIVE ADMIN HOME PAGE CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----USER ADMINISTRATION CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----PUBLIC USER CLICK OPTION CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----ADD PUBLIC USER----]]>
+            </line>
+            <line>
+              <![CDATA[----PUBLIC USER ADDED SUCCESSFULLY----]]>
+            </line>
+            <line>
+              <![CDATA[----LMS ADMIN PANEL MENU CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[---- CURRICULUM MANAGER LINK CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[---- CURRICULUM MANAGER ADD CLICK SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[---- CURRICULUM NAME AND DESCRIPTION SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[---- EXIT FROM CURRICULUM PAGE SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO TRAINING PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----TRAINING PAGE DATA ADDED SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----SEARCH DATA IN TRAINING COURSE PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----SEARCH DATA IN TRAINING COURSE PAGE SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO TITLE QUIZ PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----QUIZ ADDED SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO PUBLIC USER PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO PUBLIC USER PAGE SEARCH----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO IMPERSONATE USER----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO NEW WINDOW----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO ACADEMY PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO CURRICULUM PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----NAVIGATE TO TEST PAGE----]]>
+            </line>
+            <line>
+              <![CDATA[----TEST SUCCESSFULL----]]>
+            </line>
+            <line>
+              <![CDATA[----TEST SUCCESSFULL MESSAGE----Your Score : 100%]]>
+            </line>
+            <line>
+              <![CDATA[10 points  : POINTS ON HOLD]]>
+            </line>
+            <line>
+              <![CDATA[----TEST COMPLETED----]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- completeCourseAndVerifyPointsAreCredited1 -->
+        <test-method is-config="true" signature="configAfterMethod(org.testng.ITestResult)[pri:0, instance:org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest@6f01b95f]" started-at="2024-11-07T13:04:29 IST" name="configAfterMethod" finished-at="2024-11-07T13:04:31 IST" duration-ms="1971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=completeCourseAndVerifyPointsAreCredited1 status=SUCCESS method=TC_01_CompleteCourseAndVerifyPointsAreCreditedTest.completeCourseAndVerifyPointsAreCredited1()[pri:0, instance:org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest@6f01b95f] output=----LOGIN SUCCESSFULL----]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAfterMethod -->
+      </class> <!-- org.tyss.flatworld.testcases.TC_01_CompleteCourseAndVerifyPointsAreCreditedTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+	<parameter name="ClientName" value="COMM_KSPL"></parameter>
+	<parameter name="BrowserName" value="Chrome"></parameter>
+	<listeners>
+		<listener class-name="org.tyss.knolskape.genericutility.ListenerImplementationClass" />
+	</listeners>
+	<test thread-count="5" name="Test">
+		<classes>
+			<class name="org.tyss.knolskape.testcases.UI_UX_Test" />
+			<class name="org.tyss.knolskape.testcases.CheckWhetherLinksAreBrokenTest" />
+			<class name="org.tyss.knolskape.testcases.CheckTheExpectedElementsArePresentInGuiTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
